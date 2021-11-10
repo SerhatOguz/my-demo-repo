@@ -1,3 +1,3 @@
 # my-demo-repo
 
-bu bizim githubdaki ilk çalışmamız
+bu bizim github daki ilk çalışmamız
